@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guyko91
+- 👀 I’m interested in learning something.
+- 🌱 I’m currently learning algorithm
