@@ -1,6 +1,6 @@
 # 안녕하세요, 백엔드 개발자 고동욱 입니다.
 
-## 🚀 Skill Inventories
+## 🚀 기술 스택
 
 ### 🏆 익숙하고 잘하는
 - **Language**: Java(8 ~ 21)
@@ -15,7 +15,7 @@
 - **Database**: Elastic Search
 - **DevOps**: AWS (EC2, S3, RDS, IoT Core, Route53, Cloud Front), Docker, Kubernetes
 
-## 🌱 Currently Learning
+## 🌱 최근 관심사
 - Vue 3.0
 - Domain-Driven Design
 - Clean Architecture
