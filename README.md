@@ -18,6 +18,7 @@
 - Vue 3.0
 - Domain-Driven Design
 - Clean Architecture
+- Spring Security
 
 ## 📫 연락처
 
