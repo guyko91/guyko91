@@ -14,10 +14,10 @@
 - **DevOps**: AWS (EC2, S3, RDS, IoT Core, Route53, Cloud Front), Docker, Kubernetes
 
 ## 🌱 최근 관심사
-- Vue 3.0
 - Domain-Driven Design
 - Clean Architecture
 - Spring Security
+- kafka
 
 ## 📫 연락처
 
