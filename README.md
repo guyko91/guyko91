@@ -23,6 +23,3 @@
 
 - **이메일**: [guyko91@gmail.com](mailto:guyko91@gmail.com)
 - **카카오톡**: [오픈채팅방](https://open.kakao.com/o/gzcJ9W0g)
-
----
-프로젝트 협업은 언제든지 연락주세요!
