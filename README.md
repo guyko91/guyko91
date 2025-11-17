@@ -11,13 +11,15 @@
 - **Language**: JavaScript
 - **Framework**: Spring Cloud, Spring Batch, Vue.js
 - **Database**: Elastic Search
-- **DevOps**: AWS (EC2, S3, RDS, IoT Core, Route53, Cloud Front), Docker, Kubernetes
+- **DevOps**: AWS (EC2, S3, RDS, IoT Core, Route53, Cloud Front), Docker, Kubernetes, APISIX G/W, Apache Airflow
+- **Observability**: Grafana(Prometheus+Loki+Tempo)
 
 ## 🌱 최근 관심사
 - Domain-Driven Design
 - Clean Architecture
 - Spring Security
 - kafka
+- System Observability
 
 ## 📫 연락처
 
